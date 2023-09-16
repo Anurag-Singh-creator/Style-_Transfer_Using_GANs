@@ -21,4 +21,4 @@ The project can be broadly segmented into the following steps:
 2. **Image Processing**: Process the images through various steps to ready them for the model.
 3. **Model-Building and Training**: Here, I'll create the Generators and Discriminators using a modified U-Net architecture (similar to CycleGAN). Additionally, I'll define the loss function and finalize the training steps.
 
-**Note**: I'll be submitting a zip file containing a Jupyter notebook. Evaluation rubrics are provided separately. The notebook will also visualize the predicted data for clearer understanding.
+
